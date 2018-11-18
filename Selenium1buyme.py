@@ -20,7 +20,7 @@ driver.find_element_by_xpath("/html[@class='chrome']/body[@class='rtl ember-appl
 
 #driver.find_element_by_class_name("social-btn.facebook").click()
 
-
+#kut
 
 #driver.find_element_by_xpath("/html[@class='chrome']/body[@class='rtl ember-application INDpositionRight INDDesktop INDChrome INDlangdirRTL hover']/div[@id='ember558']/div[@class='main-container main-padding']/div[@class='ui-lightbox login']/div[@class='inner']/div[@class='box']/div[@class='lightbox-content']/div[@class='main-form']/div[@class='option oldschool']/form[@id='ember971']/div[@class='field'][1]/label[@id='ember972']/input[@id='ember973']").send_keys("efrat levi")
 
