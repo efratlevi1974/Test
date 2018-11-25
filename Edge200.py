@@ -16,7 +16,7 @@ print(driver.current_url)
 
 #driver.find_element_by_id("cameraDashboard").click()
 
-
+#efrat
 # driver.refresh()
 #
 # driver.quit()
